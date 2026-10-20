@@ -1,11 +1,11 @@
 {
-  "version": "0.4.0",
-  "notes": "Alpha 1\n\n• Dark is now the default theme for new libraries.\n• About Mimo is now easy to find in the sidebar, with version details and release notes.\n• A startup splash appears while Mimo opens your library.\n• Added the first manual update check and install flow for future alpha releases.",
+  "version": "0.4.1",
+  "notes": "Alpha 2\n\n• Refreshed Mimo's icons look.\n• Made saving status, playlist rules, queue counts, and Home statistics easier to read.\n• Polished the appearance controls and update messages in About Mimo.",
   "pub_date": "2026-10-20T12:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURU9VM0hZeDhlSjZIT1BDZmNmK3ZXaXM5a2VXUXdIT2Zyb0J1L3Jud3dFSHVLOEVUK0V3bFlvb0cxQm1kQ25sN3BnSVExWjcwZWJFMmJ2N2wwOGFhRTNrSUQ5S1l0MFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTI5NTE3CWZpbGU6TWltby5hcHAudGFyLmd6CXZlcnNpb246MC40LjAKUjZEYVhFcVhhNVFTOHlSeWlvRUFoTFNpMzd2eGdBemhOeHNTVUh1Z0h1Y3RsYlFGbUJycVpSQkFtMUc4eXBsTEpIK1JPT1BvTHpRL01oR1pDYUlrRGc9PQo=",
-      "url": "https://github.com/dxnel/mimo-downloads/releases/download/v0.4.0/Mimo.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURU9VM0hZeDhlSnk5eG1KSW9pekF1anMxWkNYL1gwRDVpTUlEdCtxbHFUdnNSNWtEVVFXTWEvRmNhU3RTNUt3V2tmYUZRVUxWSUloenpuRWgwSWRreXhWcUpSTzhwcUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTMzNTI2CWZpbGU6TWltby5hcHAudGFyLmd6CXZlcnNpb246MC40LjEKV1UxcU80SGpuVWVWN1NKbHVVRG8yb0hIUzhMT05aNkpoaXkvcTgrT3hsMlQwTU1FYnNPS21TOGIxbDJTeWZzU2RZbmxLQjQ1cWgzMnRhNVZFaWFDRFE9PQo=",
+      "url": "https://github.com/dxnel/mimo-downloads/releases/download/v0.4.1/Mimo.app.tar.gz"
     }
   }
 }
