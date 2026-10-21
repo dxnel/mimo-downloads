@@ -1,11 +1,11 @@
 {
-  "version": "0.4.4",
-  "notes": "Alpha\n\n• About Mimo is easier to read, with release details and a unique build ID.\n• The menu bar is overhauled with an improved action set and layout.\n• Fixed visual inconsistencies.",
+  "version": "0.4.5",
+  "notes": "Alpha\n\n• Playlists now fill in track durations automatically, with a separate scan notice.\n• Home and the sidebar have more consistent spacing, and Library now opens All tracks.\n• Track list scrollbars start below the header, and playlist totals wait until all track durations are known.\n• Update reminders and error messages are clearer, with a retry option when a check fails.",
   "pub_date": "2026-10-21T12:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURU9VM0hZeDhlSjY3SklZRWJFaTNiUEZxT25STzFaVXhTS1dGTmEyTklKY2c1dG1qYTc5NS9JZklpdTJLN1FjNHdWbGtHYmY1aG96TFFmZEc5N0Jkbk9NbmJXWjZjNEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjA1ODk3CWZpbGU6TWltby5hcHAudGFyLmd6CXZlcnNpb246MC40LjQKaSsyTGVDaHQwNk90UlVHUmo2a1hyZStBT1FrYkJjelM3NG1FZkVWQVdoUnBncnZEaVh4UmViR0oyc0JXdzhMWnlmRTE4VXJKY3Z3VDlTV3ZXcDBtQWc9PQo=",
-      "url": "https://github.com/dxnel/mimo-downloads/releases/download/v0.4.4/Mimo.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURU9VM0hZeDhlSjg1MkloL1JuZXpLdE00RFQzQ2hlVlJiaTQxNmx3M080cGFrVUcwMk55QUJkZCtKS0ZYWTI4VWUyeXNjd2lJeS9NN2h3TnVWWUM3eVJrempTNDVjYkFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjE1MjM0CWZpbGU6TWltby5hcHAudGFyLmd6CXZlcnNpb246MC40LjUKQU5KMGFyQncrd2t6NWRXZ01VNEtYRWJvNUg1ZXFpQmZDOXEvcTlMZUo4dEdSSE1oUjlXSmZmRzMxQXA4WDBwenpmejRuQ1dpM1hVbWJiekZFY1h2QVE9PQo=",
+      "url": "https://github.com/dxnel/mimo-downloads/releases/download/v0.4.5/Mimo.app.tar.gz"
     }
   }
 }
