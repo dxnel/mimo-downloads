@@ -1,11 +1,11 @@
 {
-  "version": "0.4.2",
-  "notes": "Alpha 3\n\n• New stacks and playlists start with a randomly assigned cover color.\n• Smart playlist text rules can match or exclude several comma-separated values in one rule.\n• Refined selected sidebar icons.\n• Polished various UI elements.",
+  "version": "0.4.3",
+  "notes": "Alpha\n\n• Mimo can check for updates when it opens and ask before installing a newer version. Turn off these reminders in Settings if you prefer to check manually.\n• Available updates are easier to read, with a clearer release badge and highlighted details.\n• The splash screen UI has been slightly tweaked.",
   "pub_date": "2026-10-21T12:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURU9VM0hZeDhlSjVZTUw3NlZPTUlDQlhHbDZOeWxyaXlTdmoyc3lGQmJTQlFOVnlMZ0FoRHh0eWsrcDRsZUhnWnlvdEVONkJuRCtDM2p0QytiZEFQbjJmMFhQdCtEcmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTc0OTE4CWZpbGU6TWltby5hcHAudGFyLmd6CXZlcnNpb246MC40LjIKWFR1VktMU2g2dm1nVkZVK0xRY1RwUGpIQm52a3hOdlltcmRocnJuOHVEQ2lQaDJobnoxeHhNMUV1ZGh1VFJmV0VYKzllM0JxVHFwUmNnNjdZQ1lvQkE9PQo=",
-      "url": "https://github.com/dxnel/mimo-downloads/releases/download/v0.4.2/Mimo.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURU9VM0hZeDhlSnpyT2xSOXFpRnBwZE51MDQ1S2VBNVBSMU8vVWU3QTFLYTgxczNCeUpPS09Yb1hYRnBOamxUT1hjS0U0NGkxd044TUx6MEpwSUY4NXgrQ2xaWlZqaHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTk2NDgyCWZpbGU6TWltby5hcHAudGFyLmd6CXZlcnNpb246MC40LjMKSkkwZFZ0clVIalk3Q3l1Z2phRUppK0xCb3l0aHMwbE5EWnlWZTZkK05BSHlWeHN0L3FweGVlL1hteTNRNVpTVTBEbmhxcWFuSlJ3dkZzRFhNNDNWRHc9PQo=",
+      "url": "https://github.com/dxnel/mimo-downloads/releases/download/v0.4.3/Mimo.app.tar.gz"
     }
   }
 }
