@@ -1,11 +1,11 @@
 {
-  "version": "0.4.1",
-  "notes": "Alpha 2\n\n• Refreshed Mimo's icons look.\n• Made saving status, playlist rules, queue counts, and Home statistics easier to read.\n• Polished the appearance controls and update messages in About Mimo.",
-  "pub_date": "2026-10-20T12:00:00Z",
+  "version": "0.4.2",
+  "notes": "Alpha 3\n\n• New stacks and playlists start with a randomly assigned cover color.\n• Smart playlist text rules can match or exclude several comma-separated values in one rule.\n• Refined selected sidebar icons.\n• Polished various UI elements.",
+  "pub_date": "2026-10-21T12:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURU9VM0hZeDhlSnk5eG1KSW9pekF1anMxWkNYL1gwRDVpTUlEdCtxbHFUdnNSNWtEVVFXTWEvRmNhU3RTNUt3V2tmYUZRVUxWSUloenpuRWgwSWRreXhWcUpSTzhwcUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTMzNTI2CWZpbGU6TWltby5hcHAudGFyLmd6CXZlcnNpb246MC40LjEKV1UxcU80SGpuVWVWN1NKbHVVRG8yb0hIUzhMT05aNkpoaXkvcTgrT3hsMlQwTU1FYnNPS21TOGIxbDJTeWZzU2RZbmxLQjQ1cWgzMnRhNVZFaWFDRFE9PQo=",
-      "url": "https://github.com/dxnel/mimo-downloads/releases/download/v0.4.1/Mimo.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURU9VM0hZeDhlSjVZTUw3NlZPTUlDQlhHbDZOeWxyaXlTdmoyc3lGQmJTQlFOVnlMZ0FoRHh0eWsrcDRsZUhnWnlvdEVONkJuRCtDM2p0QytiZEFQbjJmMFhQdCtEcmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTc0OTE4CWZpbGU6TWltby5hcHAudGFyLmd6CXZlcnNpb246MC40LjIKWFR1VktMU2g2dm1nVkZVK0xRY1RwUGpIQm52a3hOdlltcmRocnJuOHVEQ2lQaDJobnoxeHhNMUV1ZGh1VFJmV0VYKzllM0JxVHFwUmNnNjdZQ1lvQkE9PQo=",
+      "url": "https://github.com/dxnel/mimo-downloads/releases/download/v0.4.2/Mimo.app.tar.gz"
     }
   }
 }
