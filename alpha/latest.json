@@ -1,11 +1,11 @@
 {
-  "version": "0.4.5",
-  "notes": "Alpha\n\n• Playlists now fill in track durations automatically, with a separate scan notice.\n• Home and the sidebar have more consistent spacing, and Library now opens All tracks.\n• Track list scrollbars start below the header, and playlist totals wait until all track durations are known.\n• Update reminders and error messages are clearer, with a retry option when a check fails.",
-  "pub_date": "2026-10-21T12:00:00Z",
+  "version": "0.4.6",
+  "notes": "Alpha\n\n• A more consistent interface with borderless controls, quieter theme-aware focus, and subtle page, dialog, and menu animations.\n• Right-click menus avoid unnecessary redraws, selected stack icons stay outlined, and repeated track counts have been removed.\n• Library pages now have Play and Shuffle buttons, and playlists have a Scan BPM & key button.\n• Scanning reads explicit BPM and key labels from filenames first and can correct earlier scan estimates while preserving manual edits. Audio tempo detection handles weak offbeats more carefully.\n• BPM, key, and duration now appear as compact badges. Musical keys have consistent colors, and key rules offer a selection of keys plus custom values.\n• Durations are read for imported stacks, missing durations are scanned at startup, and refreshing a stack rereads durations.\n• Home list backgrounds are more consistent, scan progress bars follow the theme, and development sessions show a build ID in About Mimo.",
+  "pub_date": "2026-10-24T12:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURU9VM0hZeDhlSjg1MkloL1JuZXpLdE00RFQzQ2hlVlJiaTQxNmx3M080cGFrVUcwMk55QUJkZCtKS0ZYWTI4VWUyeXNjd2lJeS9NN2h3TnVWWUM3eVJrempTNDVjYkFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjE1MjM0CWZpbGU6TWltby5hcHAudGFyLmd6CXZlcnNpb246MC40LjUKQU5KMGFyQncrd2t6NWRXZ01VNEtYRWJvNUg1ZXFpQmZDOXEvcTlMZUo4dEdSSE1oUjlXSmZmRzMxQXA4WDBwenpmejRuQ1dpM1hVbWJiekZFY1h2QVE9PQo=",
-      "url": "https://github.com/dxnel/mimo-downloads/releases/download/v0.4.5/Mimo.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURU9VM0hZeDhlSnpQS3k3OWFxKzZJY2EyQTArUTVUcFk0bmhyS0hPM0lYNnBldE4rQVRnR2EzNUZ6Uldlc3RHcTUreDQ1U0hCU1cvUThJRWwwd3pqektxWmI0R0JyL1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODQ1ODEyCWZpbGU6TWltby5hcHAudGFyLmd6CXZlcnNpb246MC40LjYKamFSaU1OMlNDTXBSQUxuTGJaei9IeWlnUkhwd3dLRmdtOHk2RjRvMDJFcndBWWVlbG1PdTVCVlRPaVdJc1VhZkR0TzVJL2hBS2t5elN2ZDQzdGRBREE9PQo=",
+      "url": "https://github.com/dxnel/mimo-downloads/releases/download/v0.4.6/Mimo.app.tar.gz"
     }
   }
 }
