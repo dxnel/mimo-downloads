@@ -1,11 +1,11 @@
 {
-  "version": "0.4.7",
-  "notes": "Alpha\n\n• Artist, title, and embedded artwork are read automatically in the background. Your edits are preserved, and refreshing a stack rereads metadata and duration.\n• The player shows where a track is playing from. Playlists and stacks use their own artwork; library playback uses embedded artwork when available.\n• Reorder the playback queue by dragging, move or remove queued tracks, and clear upcoming tracks. Play or Next can start an idle queue.\n• Accent colors, stacks, and playlists share one preset color palette.\n• Sort tracks by title or artist in either direction.\n• Wider library views, more consistent icons, UI enchancements.",
+  "version": "0.4.8",
+  "notes": "Alpha\n\n• Unified top bar with navigation, search, and inspector controls.\n• Small UI Enchantements",
   "pub_date": "2026-10-24T12:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURU9VM0hZeDhlSjltcnBEa0JOVFVwUVNTSjdGYlp6cWl1OFd0RkZTSHpDSGZ3UUYwS3FkRjlhVTJtdis1OE1LWmR2NTV3QVJ3TnN6ZUgydEx6MXpZMFlKK1dVanRXUkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODU0ODIzCWZpbGU6TWltby5hcHAudGFyLmd6CXZlcnNpb246MC40LjcKbFhVaVY2U2RHY09reEF1ODc1Uld3OUtNRmc4Z2N5b01zOXI2MzFUbndZaWNsRy80VTlsaGRvUEpMaCtqK1RLeFVqWUYyanFERmxUUHpFUW53bjhhQWc9PQo=",
-      "url": "https://github.com/dxnel/mimo-downloads/releases/download/v0.4.7/Mimo.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURU9VM0hZeDhlSitjQzU2Vmk3bFBMQXJtdXEzU1lESDFabDZoRkpMUW9CeGVxMkhGektYUllmKzh2TW1paEFsd08xRU51S3ZmTjVYU2pTQ2RTMjdlVmdZbW8yUjNtNWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODYxNzM4CWZpbGU6TWltby5hcHAudGFyLmd6CXZlcnNpb246MC40LjgKdzVRNC9LOEFQM0RMV1I3bzJiblNwQ2Q4V2NvR2lJMjdsaWlXcTlSQWFDcmdkbis3OEFBNkYwcG1La0t2azM5TXdYbUxFMk82Z3duNlNubGwvT0Q4QUE9PQo=",
+      "url": "https://github.com/dxnel/mimo-downloads/releases/download/v0.4.8/Mimo.app.tar.gz"
     }
   }
 }
