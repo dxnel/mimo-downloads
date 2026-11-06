@@ -1,11 +1,11 @@
 {
-  "version": "0.4.8",
-  "notes": "Alpha\n\n• Unified top bar with navigation, search, and inspector controls.\n• Small UI Enchantements",
-  "pub_date": "2026-10-24T12:00:00Z",
+  "version": "0.5.0",
+  "notes": "Alpha\n\n• A refreshed interface with Dark and Midnight themes, brighter collection artwork and multiple UI upgrades.\n• Save named markers and loop a passage from Track tools, the waveform button beside the player. Drag to select a section, use a 5-, 10-, or 30-second quick loop, or loop between markers.\n• Smart playlists can now filter by duration, date added, and last played, including rolling day windows. Older tracks keep an unknown date added; use “is empty” to include unknown dates.\n• Find preferences in tabbed Settings, and get started with a skippable first-launch setup that explains stacks and playlists.",
+  "pub_date": "2026-11-05T12:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURU9VM0hZeDhlSitjQzU2Vmk3bFBMQXJtdXEzU1lESDFabDZoRkpMUW9CeGVxMkhGektYUllmKzh2TW1paEFsd08xRU51S3ZmTjVYU2pTQ2RTMjdlVmdZbW8yUjNtNWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODYxNzM4CWZpbGU6TWltby5hcHAudGFyLmd6CXZlcnNpb246MC40LjgKdzVRNC9LOEFQM0RMV1I3bzJiblNwQ2Q4V2NvR2lJMjdsaWlXcTlSQWFDcmdkbis3OEFBNkYwcG1La0t2azM5TXdYbUxFMk82Z3duNlNubGwvT0Q4QUE9PQo=",
-      "url": "https://github.com/dxnel/mimo-downloads/releases/download/v0.4.8/Mimo.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURU9VM0hZeDhlSjlrMFY3YVNpMUQ2dHhNMFR0azd0SVk2cnJoNVp3c0JuckcySW9LQXpSdXJCK0JnT2dhbkYzdzd1YVRwMTBEV2pyZklzaU0zTWV0OFlLVzZpbmxvRFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTA1OTEzCWZpbGU6TWltby5hcHAudGFyLmd6CXZlcnNpb246MC41LjAKQXFBb2FmVkRGQUxmV0FTUzRrL0U5TVJKSTJmaUpvaDdQU3U0RVJwMmIvL2FvVHlTaEVpajk5Sm55MGE4dGVGeERmU3IzblBRRi9LMGd5MTJhZi80QVE9PQo=",
+      "url": "https://github.com/dxnel/mimo-downloads/releases/download/v0.5.0/Mimo.app.tar.gz"
     }
   }
 }
